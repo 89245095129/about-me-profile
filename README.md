@@ -44,11 +44,13 @@ about-me-profile/
 1. **Клонируйте репозиторий**
    ```bash
    git clone https://github.com/89245095129/about-me-profile.git
-   Откройте в браузере
 
+   
+   Откройте в браузере:
 bash
 cd about-me-profile
 open index.html
+
 📞 Контакты
 GitHub: 89245095129
 
